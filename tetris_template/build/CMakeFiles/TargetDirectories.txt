@@ -1,3 +1,0 @@
-/mnt/d/Code/ubuntu/test_10_1/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/Code/ubuntu/test_10_1/build/CMakeFiles/edit_cache.dir
-/mnt/d/Code/ubuntu/test_10_1/build/CMakeFiles/main.dir
