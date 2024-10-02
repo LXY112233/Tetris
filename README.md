@@ -22,4 +22,12 @@ cmake -DBUILD_SHARED_LIBS=ON ..
 make
 sudo make install
 ```
-5. 下载本开源项目给出的开发框架tetris_template，这是raylib网站给出的第一个example（我的笔记本是2K分辨率，缩放比例在200%，启动后窗口就会怪怪的，外接显示器缩放比例在100%是正常的）
+5. 下载本开源项目给出的开发框架tetris_template，这是raylib网站给出的第一个example
+6. 编译链接运行tetris_template
+```
+cd tetris_template/build
+cmake .. && make
+cd .. && cd bin
+./main
+```
+
