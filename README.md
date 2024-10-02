@@ -22,3 +22,4 @@ cmake -DBUILD_SHARED_LIBS=ON ..
 make
 sudo make install
 ```
+5. 下载本开源项目给出的开发框架，执行第一个example测试（我的电脑是2K分辨率，缩放比例在200%，启动后窗口就会怪怪的，外接显示器缩放比例在100%是正常的）
