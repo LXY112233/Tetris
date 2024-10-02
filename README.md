@@ -24,8 +24,7 @@ cmake -DBUILD_SHARED_LIBS=ON ..
 make
 sudo make install
 ```
-4. 下载本开源项目给出的开发框架tetris_template，main.cpp中的代码是raylib网站给出的第一个example
-5. 编译链接运行tetris_template
+4. 编译链接运行本项目的tetris_template
 ```
 git clone https://github.com/LXY112233/tetris.git
 cd tetris/tetris_template
