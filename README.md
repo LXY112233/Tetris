@@ -28,7 +28,7 @@ sudo make install
 5. 编译链接运行tetris_template
 ```
 git clone https://github.com/LXY112233/tetris.git
-cd tetris_template
+cd tetris/tetris_template
 mkdir build && cd build
 cmake .. && make
 cd .. && mkdir bin && cd bin
