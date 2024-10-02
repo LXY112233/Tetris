@@ -9,7 +9,7 @@ a Tetris game using raylib which is a open source library by C
 ```
 sudo apt install libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev libxcursor-dev libxinerama-dev libwayland-dev libxkbcommon-dev  
 ```
-这一句命令我运行失败，但是并不影响build这个库  
+  下面这一句命令我运行失败，但是并不影响build这个库  
 ```
 sudo dnf install wayland-devel libxkbcommon-devel wayland-protocols-devel  
 ```
