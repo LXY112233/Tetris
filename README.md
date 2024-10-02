@@ -22,7 +22,7 @@ cmake -DBUILD_SHARED_LIBS=ON ..
 make
 sudo make install
 ```
-5. 下载本开源项目给出的开发框架tetris_template，这是raylib网站给出的第一个example
+5. 下载本开源项目给出的开发框架tetris_template，main.cpp中的代码是raylib网站给出的第一个example
 6. 编译链接运行tetris_template
 ```
 cd tetris_template/build
