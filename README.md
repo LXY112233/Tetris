@@ -27,9 +27,10 @@ sudo make install
 4. 下载本开源项目给出的开发框架tetris_template，main.cpp中的代码是raylib网站给出的第一个example
 5. 编译链接运行tetris_template
 ```
-cd tetris_template/build
+cd tetris_template
+mkdir build && cd build
 cmake .. && make
-cd .. && cd bin
+cd .. && mkdir bin && cd bin
 ./main
 ```
 
