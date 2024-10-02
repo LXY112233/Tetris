@@ -1,7 +1,7 @@
 # tetris
 a Tetris game using raylib which is a open source library by C
 
-## 日志  
+## raylib库安装方法  
 1. ubuntu系统下，安装好GCC编译器，VScode编辑器，make、cmake和git工具  
 
 2. 运行命令：
