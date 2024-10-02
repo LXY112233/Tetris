@@ -29,9 +29,9 @@ sudo make install
 ```
 git clone https://github.com/LXY112233/tetris.git
 cd tetris/tetris_template
-mkdir build && cd build
-cmake .. && make
-cd .. && mkdir bin && cd bin
+mkdir build && mkdir bin
+cd build && cmake .. && make
+cd .. && cd bin
 ./main
 ```
 
