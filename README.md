@@ -2,20 +2,18 @@
 a Tetris game using raylib which is a open source library by C
 
 ## 日志  
-1.ubuntu系统下，安装好GCC编译器，VScode编辑器，make、cmake和git工具  
+1. ubuntu系统下，安装好GCC编译器，VScode编辑器，make、cmake和git工具  
 
-2.遵循raylib给出的安装方法  
-
-    2.1 运行  
+2. 运行命令：
   ```
   sudo apt install libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev libxcursor-dev libxinerama-dev libwayland-dev libxkbcommon-dev  
   ```
-    2.2 这一句命令我运行失败，但是并不影响build这个库  
+3. 这一句命令我运行失败，但是并不影响build这个库  
   ```
   sudo dnf install wayland-devel libxkbcommon-devel wayland-protocols-devel  
   ```
 
-    3.2Build raylib using CMake
+4. Build raylib using CMake
 ```
 git clone https://github.com/raysan5/raylib.git raylib
 cd raylib
