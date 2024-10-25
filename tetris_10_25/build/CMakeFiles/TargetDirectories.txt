@@ -1,0 +1,3 @@
+/home/lxy/Code/tetris/tetris_template/build/CMakeFiles/rebuild_cache.dir
+/home/lxy/Code/tetris/tetris_template/build/CMakeFiles/edit_cache.dir
+/home/lxy/Code/tetris/tetris_template/build/CMakeFiles/main.dir
