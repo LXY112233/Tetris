@@ -1,5 +1,6 @@
-# tetris
-a Tetris game using raylib which is a open source library by C
+![image](https://github.com/user-attachments/assets/95d03234-9cb8-4cee-b555-e6ccca44f881)# tetris
+a Tetris game using raylib which is a open source library by C  
+参考视频：https://www.youtube.com/watch?v=gO6tuky1zNg&list=PLDB9m0B5S4khczUDOb9_dBH3WLW7znQ0U&index=1
 
 ## raylib库安装方法  
 配置好linux环境，按照raylib给出的方法，用cmake去build这个库，再用本项目给出的开发框架编写自己的程序
